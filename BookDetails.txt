@@ -1,0 +1,5 @@
+1. Java Programming
+2. C programming
+3. Digital logics and designing
+4. Data Structures and Algorithms
+5. C++
